@@ -1,0 +1,7 @@
+-Dfile.encoding=UTF-8
+-classpath
+"C:\\Users\\ecust\\eclipse-workspace\\RandomWord\\bin;C:\\Users\\ecust\\eclipse-workspace\\lib\\algs4.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+RandomWord
+Owl
+Fox
