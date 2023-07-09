@@ -1,7 +1,7 @@
 /********************************************************************
- * Name:		Ed
- * Coursera: 	Algorithms Part1
- * Project:		RandomWord
+ * Name:        Ed
+ * Coursera:    Algorithms Part1
+ * Project:     RandomWord
  ********************************************************************/
 
 import edu.princeton.cs.algs4.StdIn;
